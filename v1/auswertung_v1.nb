@@ -1,0 +1,47 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1095,         39]
+NotebookOptionsPosition[       740,         25]
+NotebookOutlinePosition[      1143,         41]
+CellTagsIndexPosition[      1100,         38]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["Bestimmung des Molekulargewichtes", "Section",
+ CellChangeTimes->{{3.908794655656307*^9, 
+  3.908794677318828*^9}},ExpressionUUID->"34f34722-31b9-4f85-b06b-\
+4b991ea125c4"]
+},
+WindowSize->{1269., 646.5},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+FrontEndVersion->"13.2 for Microsoft Windows (64-bit) (January 30, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"091fa068-98a8-4f63-882c-badc56cd1eb7"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 178, 3, 67, "Section",ExpressionUUID->"34f34722-31b9-4f85-b06b-4b991ea125c4"]
+}
+]
+*)
+
